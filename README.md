@@ -1,4 +1,4 @@
-# Machine Learning Laboratory (21AIL66) 🌟
+# Machine Learning Laboratory (21AIL66)
 
 ![Course Code](https://img.shields.io/badge/Course-21AIL66-blue)
 ![Machine Learning](https://img.shields.io/badge/Subject-Machine%20Learning-orange)
@@ -60,19 +60,21 @@ You can view and run all the programs in a Kaggle notebook. Click the link below
 
 - [Machine Learning Laboratory (21AIL66) Notebook](https://www.kaggle.com/code/farhakouser/machine-learning-laboratory-21ail66-ipynb/edit)
 
+Please upvote the notebook and follow me on Kaggle if you find it useful.
+
 ## Viva Questions
 
-For detailed viva questions and answers based on Tom Mitchell's "Machine Learning," you can refer to the [Viva Questions Wiki](https://github.com/FarhaKousar1601/Machine-Learning-Laboratory-21AIL66-/wiki/viva-vtu).
+For detailed viva questions and answers, you can refer to the [Viva Questions Wiki](https://github.com/FarhaKousar1601/Machine-Learning-Laboratory-21AIL66-/wiki/viva-vtu).
 
 ## How to Use
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/21ail66-ml-lab.git
+    git clone https://github.com/FarhaKousar1601/Machine-Learning-Laboratory-21AIL66-.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd 21ail66-ml-lab
+    cd Machine-Learning-Laboratory-21AIL66-
     ```
 3. Open the relevant program file and run it using your preferred Python environment.
 
@@ -87,7 +89,7 @@ For detailed viva questions and answers based on Tom Mitchell's "Machine Learnin
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+Contributions are welcome! Please fork the repository, star it, learn from the code, discuss any improvements, and create a pull request with your changes.
 
 ## License
 
