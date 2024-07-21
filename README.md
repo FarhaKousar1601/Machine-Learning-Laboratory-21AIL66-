@@ -8,8 +8,7 @@
 ![NumPy](https://img.shields.io/badge/Library-NumPy-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 
-
-Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository contains the list of problems and solutions developed as part of the Machine Learning lab coursework.
+Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository contains a collection of problems and solutions developed as part of the Machine Learning lab coursework.
 
 ## List of Programs
 
@@ -23,7 +22,7 @@ Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository
 
 3. **Decision Tree (ID3 Algorithm)**
    - **Aim**: Construct the decision tree using training data sets under supervised learning.
-   - **Program**: Write a program to demonstrate the ID3 algorithm. Use an appropriate data set for building the decision tree and classify a new sample.
+   - **Program**: Write a program to demonstrate the ID3 algorithm. Use an appropriate dataset for building the decision tree and classify a new sample.
 
 4. **Artificial Neural Network (Backpropagation)**
    - **Aim**: Understand the working principle of Artificial Neural Networks with feed-forward and feed-backward principles.
@@ -31,28 +30,27 @@ Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository
 
 5. **Naive Bayes Classifier**
    - **Aim**: Demonstrate the text classifier using the Naïve Bayes classifier algorithm.
-   - **Program**: Implement the Naive Bayes classifier for a sample training data set stored in a .CSV file and compute its accuracy.
+   - **Program**: Implement the Naive Bayes classifier for a sample training dataset stored in a .CSV file and compute its accuracy.
 
 6. **Bayesian Belief Network**
-   - **Aim**: Demonstrate and analyze the results sets obtained from Bayesian belief network principles.
+   - **Aim**: Demonstrate and analyze the results obtained from Bayesian belief network principles.
    - **Program**: Construct a Bayesian network using medical data and diagnose heart patients with a standard Heart Disease Data Set.
 
 7. **K-Means Clustering (Expectation Maximization)**
-   - **Aim**: Implement and demonstrate the working model of K-means clustering algorithm with Expectation Maximization concept.
+   - **Aim**: Implement and demonstrate the working model of the K-means clustering algorithm with Expectation Maximization concept.
    - **Program**: Apply the EM algorithm and K-Means clustering to a dataset stored in a .CSV file, compare the results, and analyze the quality of clustering.
 
 8. **K-Nearest Neighbour (KNN)**
    - **Aim**: Demonstrate and analyze the results of classification based on the KNN Algorithm.
-   - **Program**: Implement the KNN algorithm to classify the iris dataset, printing both correct and wrong predictions.
+   - **Program**: Implement the KNN algorithm to classify the Iris dataset, printing both correct and wrong predictions.
 
 9. **Locally Weighted Regression**
    - **Aim**: Understand and analyze the concept of Regression algorithm techniques.
    - **Program**: Implement the Locally Weighted Regression algorithm to fit data points and visualize the results with appropriate graphs.
 
-10. **
 10. **Support Vector Machine (SVM)**
-    - **Aim**: Implement and demonstrate classification algorithm using Support Vector Machine Algorithm.
-    - **Program**: Implement and demonstrate the working of SVM algorithm for classification purposes.
+    - **Aim**: Implement and demonstrate a classification algorithm using the Support Vector Machine Algorithm.
+    - **Program**: Implement and demonstrate the working of the SVM algorithm for classification purposes.
 
 ## How to Use
 
@@ -69,7 +67,7 @@ Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository
 ## Prerequisites
 
 - Python 3.x
-- Required libraries: numpy, pandas, scikit-learn, matplotlib (Install using pip if not already installed)
+- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib` (Install using pip if not already installed)
 
     ```sh
     pip install numpy pandas scikit-learn matplotlib
@@ -84,5 +82,9 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/farhakousar16)
+- [GitHub](https://github.com/FarhaKousar1601)
 
 © 2024 Department of AIML, KNS Institute of Technology
