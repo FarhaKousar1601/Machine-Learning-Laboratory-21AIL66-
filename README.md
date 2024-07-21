@@ -8,9 +8,11 @@
 ![NumPy](https://img.shields.io/badge/Library-NumPy-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 
-Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository contains the list of problems and solutions developed as part of the Machine Learning lab coursework.
+Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository contains a list of problems and solutions developed as part of the Machine Learning lab coursework.
 
 ## List of Programs
+
+Here is a list of programs covered in this lab course:
 
 1. **Find-S Algorithm**
    - **Aim**: Illustrate and demonstrate the working model and principle of the Find-S algorithm.
@@ -51,6 +53,12 @@ Welcome to the Machine Learning Laboratory (21AIL66) repository. This repository
 10. **Support Vector Machine (SVM)**
     - **Aim**: Implement and demonstrate classification algorithm using Support Vector Machine Algorithm.
     - **Program**: Implement and demonstrate the working of SVM algorithm for classification purposes.
+
+## Kaggle Notebook
+
+You can view and run all the programs in a Kaggle notebook. Click the link below to access the notebook:
+
+- [Machine Learning Laboratory (21AIL66) Notebook](https://www.kaggle.com/code/farhakouser/machine-learning-laboratory-21ail66-ipynb/edit)
 
 ## Viva Questions
 
